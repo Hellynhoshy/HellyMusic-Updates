@@ -3,20 +3,21 @@
   "product": "HellyMusic",
   "component": "Client",
   "channel": "stable",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "minimumSupportedVersion": "0.9.0",
-  "publishedAtUtc": "2026-10-11T22:04:57.5507964Z",
+  "publishedAtUtc": "2026-10-11T22:57:20.5702744Z",
   "mandatory": false,
-  "title": "Atualização HellyMusic 0.9.3",
+  "title": "Atualização HellyMusic 0.9.4",
   "notes": [
-    "Corrigidas notificações para não roubarem foco em jogos.",
-    "Melhorado comportamento dos toasts em janela/borderless.",
-    "Mantido assistente de ligação para amigos."
+    "Nova experiência integrada de atualizações nas Definições.",
+    "Download com progresso e validação antes de instalar.",
+    "Instalação silenciosa com reinício automático do Client.",
+    "Mantidas correções das notificações para não roubarem foco em jogos."
   ],
   "installer": {
-    "file": "HellyMusic-Setup-0.9.3.exe",
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.9.3/HellyMusic-Setup-0.9.3.exe",
-    "sha256": "7D8853BE5E1F59D6A1D6BC7CA2D543A0AB78B9238397A075DD5A6BE058CFCA25",
-    "sizeBytes": 2180285
+    "file": "HellyMusic-Setup-0.9.4.exe",
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.9.4/HellyMusic-Setup-0.9.4.exe",
+    "sha256": "1D64963CE92F070CD4A12D1FD13CF7851753E0B9A0AB0947BCF49AFB3C7CECA6",
+    "sizeBytes": 2182368
   }
 }

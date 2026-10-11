@@ -1,20 +1,22 @@
 {
-    "schemaVersion":  1,
-    "product":  "HellyMusic",
-    "component":  "Client",
-    "channel":  "stable",
-    "version":  "0.9.1-test",
-    "minimumSupportedVersion":  "0.9.0",
-    "publishedAtUtc":  "2026-10-10T15:47:46.7732983Z",
-    "mandatory":  false,
-    "title":  "Atualização do HellyMusic",
-    "notes":  [
-                  "Teste remoto do sistema de atualização HellyMusic."
-              ],
-    "installer":  {
-                      "file":  "HellyMusic-Setup-0.9.1-test.exe",
-                      "url":  "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.9.1-test/HellyMusic-Setup-0.9.1-test.exe",
-                      "sha256":  "8788A4B48F308689EEB23970E8F4887223B5B736059FAADFE5295E2F49CDDC8E",
-                      "sizeBytes":  2166958
-                  }
+  "schemaVersion": 1,
+  "product": "HellyMusic",
+  "component": "Client",
+  "channel": "stable",
+  "version": "0.9.3",
+  "minimumSupportedVersion": "0.9.0",
+  "publishedAtUtc": "2026-10-11T22:04:57.5507964Z",
+  "mandatory": false,
+  "title": "Atualização HellyMusic 0.9.3",
+  "notes": [
+    "Corrigidas notificações para não roubarem foco em jogos.",
+    "Melhorado comportamento dos toasts em janela/borderless.",
+    "Mantido assistente de ligação para amigos."
+  ],
+  "installer": {
+    "file": "HellyMusic-Setup-0.9.3.exe",
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.9.3/HellyMusic-Setup-0.9.3.exe",
+    "sha256": "7D8853BE5E1F59D6A1D6BC7CA2D543A0AB78B9238397A075DD5A6BE058CFCA25",
+    "sizeBytes": 2180285
+  }
 }

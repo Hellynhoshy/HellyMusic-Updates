@@ -3,21 +3,23 @@
   "product": "HellyMusic",
   "component": "Client",
   "channel": "stable",
-  "version": "0.9.4",
+  "version": "0.10.0",
   "minimumSupportedVersion": "0.9.0",
-  "publishedAtUtc": "2026-10-11T22:57:20.5702744Z",
+  "publishedAtUtc": "2026-10-12T23:17:19.1316792Z",
   "mandatory": false,
-  "title": "Atualização HellyMusic 0.9.4",
+  "title": "HellyMusic 0.10.0 — Visual Refresh",
   "notes": [
-    "Nova experiência integrada de atualizações nas Definições.",
-    "Download com progresso e validação antes de instalar.",
-    "Instalação silenciosa com reinício automático do Client.",
-    "Mantidas correções das notificações para não roubarem foco em jogos."
+    "Novo Visual Refresh completo: melhorias de tipografia, cards, glow e layout.",
+    "MainForm redesenhado com nova shell visual e player bar com controlos Play, Next e Stop.",
+    "QuickPlay e notificações com estilo mais consistente; mantidas as correções para não roubarem foco em jogos.",
+    "Definições integradas na shell principal; Atualizações passam a ter página própria.",
+    "Fila e Histórico redesenhados.",
+    "Mantido o updater integrado com validação de download."
   ],
   "installer": {
-    "file": "HellyMusic-Setup-0.9.4.exe",
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.9.4/HellyMusic-Setup-0.9.4.exe",
-    "sha256": "1D64963CE92F070CD4A12D1FD13CF7851753E0B9A0AB0947BCF49AFB3C7CECA6",
-    "sizeBytes": 2182368
+    "file": "HellyMusic-Setup-0.10.0.exe",
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.10.0/HellyMusic-Setup-0.10.0.exe",
+    "sha256": "E7BDA85E8E56FCF1456E00BCD5A7F476F0004ACE3AB211EE4603C9F417A101FB",
+    "sizeBytes": 2193431
   }
 }

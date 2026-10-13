@@ -3,23 +3,23 @@
   "product": "HellyMusic",
   "component": "Client",
   "channel": "stable",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "minimumSupportedVersion": "0.9.0",
-  "publishedAtUtc": "2026-10-13T07:49:54.6049939Z",
+  "publishedAtUtc": "2026-10-13T22:55:37.9484983Z",
   "mandatory": false,
-  "title": "HellyMusic 0.10.1 — Polish Update",
+  "title": "HellyMusic 0.10.2 — Tops Update",
   "notes": [
-    "Janela principal e QuickPlay ligeiramente mais compactos; card “A tocar agora” com maior destaque para a capa durante reprodução.",
-    "Histórico detalhado redesenhado no tema HellyMusic e botão “+” para voltar a adicionar músicas à fila.",
-    "Adicionados filtros por utilizador ao histórico completo e corrigido o crash ao abrir “Pedido por”.",
-    "Indicador visual de atualização disponível na navegação e verificação automática ao abrir e a cada 30 minutos.",
-    "Adicionado separador Tops como preparação para estatísticas futuras.",
-    "Melhorias visuais e correções de polish."
+    "Nova página Tops com rankings reais, calculados pelo servidor quando disponível.",
+    "Filtros por Hoje, 7 dias e Este mês.",
+    "Top DJs, Top músicas e Top artistas.",
+    "Fallback local caso o servidor ainda não suporte Tops.",
+    "Visual dos Tops melhorado com cards, barras e destaque do líder; notificações/toasts com rebordo e cantos mais polidos.",
+    "Melhorias visuais e correções gerais."
   ],
   "installer": {
-    "file": "HellyMusic-Setup-0.10.1.exe",
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.10.1/HellyMusic-Setup-0.10.1.exe",
-    "sha256": "D5251341117E8138F58CD200DE5DF0F7BD2F8BDF6D7AA502A2458208945ABCFE",
-    "sizeBytes": 2197099
+    "file": "HellyMusic-Setup-0.10.2.exe",
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.10.2/HellyMusic-Setup-0.10.2.exe",
+    "sha256": "52979827155F33269EE720E49BBB84292B52A41C64E4CCFBBAE73592890877BB",
+    "sizeBytes": 2205503
   }
 }

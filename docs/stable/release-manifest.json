@@ -3,23 +3,23 @@
   "product": "HellyMusic",
   "component": "Client",
   "channel": "stable",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "minimumSupportedVersion": "0.9.0",
-  "publishedAtUtc": "2026-10-12T23:17:19.1316792Z",
+  "publishedAtUtc": "2026-10-13T07:49:54.6049939Z",
   "mandatory": false,
-  "title": "HellyMusic 0.10.0 — Visual Refresh",
+  "title": "HellyMusic 0.10.1 — Polish Update",
   "notes": [
-    "Novo Visual Refresh completo: melhorias de tipografia, cards, glow e layout.",
-    "MainForm redesenhado com nova shell visual e player bar com controlos Play, Next e Stop.",
-    "QuickPlay e notificações com estilo mais consistente; mantidas as correções para não roubarem foco em jogos.",
-    "Definições integradas na shell principal; Atualizações passam a ter página própria.",
-    "Fila e Histórico redesenhados.",
-    "Mantido o updater integrado com validação de download."
+    "Janela principal e QuickPlay ligeiramente mais compactos; card “A tocar agora” com maior destaque para a capa durante reprodução.",
+    "Histórico detalhado redesenhado no tema HellyMusic e botão “+” para voltar a adicionar músicas à fila.",
+    "Adicionados filtros por utilizador ao histórico completo e corrigido o crash ao abrir “Pedido por”.",
+    "Indicador visual de atualização disponível na navegação e verificação automática ao abrir e a cada 30 minutos.",
+    "Adicionado separador Tops como preparação para estatísticas futuras.",
+    "Melhorias visuais e correções de polish."
   ],
   "installer": {
-    "file": "HellyMusic-Setup-0.10.0.exe",
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.10.0/HellyMusic-Setup-0.10.0.exe",
-    "sha256": "E7BDA85E8E56FCF1456E00BCD5A7F476F0004ACE3AB211EE4603C9F417A101FB",
-    "sizeBytes": 2193431
+    "file": "HellyMusic-Setup-0.10.1.exe",
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.10.1/HellyMusic-Setup-0.10.1.exe",
+    "sha256": "D5251341117E8138F58CD200DE5DF0F7BD2F8BDF6D7AA502A2458208945ABCFE",
+    "sizeBytes": 2197099
   }
 }

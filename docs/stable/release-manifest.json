@@ -3,23 +3,23 @@
   "product": "HellyMusic",
   "component": "Client",
   "channel": "stable",
-  "version": "0.10.3",
+  "version": "0.10.4",
   "minimumSupportedVersion": "0.9.0",
-  "publishedAtUtc": "2026-10-14T17:58:50.9143674Z",
+  "publishedAtUtc": "2026-10-14T18:45:35.1819562Z",
   "mandatory": false,
-  "title": "HellyMusic 0.10.3 — Tops Usability Update",
+  "title": "HellyMusic 0.10.4 — Tops Usability Update",
   "notes": [
     "Página Tops com header mais compacto e melhor aproveitamento do espaço dos rankings.",
     "Removidos textos técnicos/desnecessários da UI dos Tops.",
-    "Botão ▶ nas músicas do Top músicas.",
-    "Feedback do botão ▶ por toast ou junto ao item.",
+    "Botão ▶ nas músicas do Top músicas, com feedback por toast ou junto ao item.",
+    "Avatares personalizados nos Tops, com fallback por inicial quando não existe avatar personalizado.",
     "Card e rankings dos Tops mais funcionais e limpos.",
     "Melhorias visuais e correções gerais."
   ],
   "installer": {
-    "file": "HellyMusic-Setup-0.10.3.exe",
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.10.3/HellyMusic-Setup-0.10.3.exe",
-    "sha256": "9C90C79EA8E7DCEEA160060E3986A45EB459039F0AE7EF83B97896D82ADE2ECF",
-    "sizeBytes": 2209023
+    "file": "HellyMusic-Setup-0.10.4.exe",
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.10.4/HellyMusic-Setup-0.10.4.exe",
+    "sha256": "FC5DD68133582CA1C2C5C0587BFFFB344DC6E8344DA2F05DE8FFE1C457E051F0",
+    "sizeBytes": 7575367
   }
 }

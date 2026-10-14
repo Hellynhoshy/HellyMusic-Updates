@@ -3,23 +3,23 @@
   "product": "HellyMusic",
   "component": "Client",
   "channel": "stable",
-  "version": "0.10.2",
+  "version": "0.10.3",
   "minimumSupportedVersion": "0.9.0",
-  "publishedAtUtc": "2026-10-13T22:55:37.9484983Z",
+  "publishedAtUtc": "2026-10-14T17:58:50.9143674Z",
   "mandatory": false,
-  "title": "HellyMusic 0.10.2 — Tops Update",
+  "title": "HellyMusic 0.10.3 — Tops Usability Update",
   "notes": [
-    "Nova página Tops com rankings reais, calculados pelo servidor quando disponível.",
-    "Filtros por Hoje, 7 dias e Este mês.",
-    "Top DJs, Top músicas e Top artistas.",
-    "Fallback local caso o servidor ainda não suporte Tops.",
-    "Visual dos Tops melhorado com cards, barras e destaque do líder; notificações/toasts com rebordo e cantos mais polidos.",
+    "Página Tops com header mais compacto e melhor aproveitamento do espaço dos rankings.",
+    "Removidos textos técnicos/desnecessários da UI dos Tops.",
+    "Botão ▶ nas músicas do Top músicas.",
+    "Feedback do botão ▶ por toast ou junto ao item.",
+    "Card e rankings dos Tops mais funcionais e limpos.",
     "Melhorias visuais e correções gerais."
   ],
   "installer": {
-    "file": "HellyMusic-Setup-0.10.2.exe",
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.10.2/HellyMusic-Setup-0.10.2.exe",
-    "sha256": "52979827155F33269EE720E49BBB84292B52A41C64E4CCFBBAE73592890877BB",
-    "sizeBytes": 2205503
+    "file": "HellyMusic-Setup-0.10.3.exe",
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.10.3/HellyMusic-Setup-0.10.3.exe",
+    "sha256": "9C90C79EA8E7DCEEA160060E3986A45EB459039F0AE7EF83B97896D82ADE2ECF",
+    "sizeBytes": 2209023
   }
 }

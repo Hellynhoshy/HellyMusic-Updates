@@ -1,25 +1,25 @@
 {
-  "schemaVersion": 1,
-  "product": "HellyMusic",
-  "component": "Client",
-  "channel": "stable",
-  "version": "0.10.5",
-  "minimumSupportedVersion": "0.9.0",
-  "publishedAtUtc": "2026-10-15T17:33:51.8779820Z",
-  "mandatory": false,
-  "title": "HellyMusic 0.10.5 — Tops Track Art Update",
-  "notes": [
-    "Capas reais nas Top músicas quando disponibilizadas pelo servidor.",
-    "Recuperação segura de thumbnails YouTube no fallback do histórico antigo.",
-    "Capas de 48 px com recorte mais limpo e cantos arredondados subtis.",
-    "Tipografia, alinhamentos e espaçamentos dos Tops refinados.",
-    "Tooltips escuros, mantendo avatares personalizados e botão de tocar.",
-    "Melhorias visuais com carregamento assíncrono, cache limitada e placeholder quando não existe capa."
-  ],
-  "installer": {
-    "file": "HellyMusic-Setup-0.10.5.exe",
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.10.5/HellyMusic-Setup-0.10.5.exe",
-    "sha256": "3648B01E3B3BD42BD3874CDC15055E112C8330225A5E29E9A6E2B3A10B672583",
-    "sizeBytes": 7580184
-  }
+    "schemaVersion":  1,
+    "product":  "HellyMusic",
+    "component":  "Client",
+    "channel":  "stable",
+    "version":  "0.10.6",
+    "minimumSupportedVersion":  "0.9.0",
+    "publishedAtUtc":  "2026-10-15T20:46:45.5725420Z",
+    "mandatory":  false,
+    "title":  "HellyMusic 0.10.6 — Navigation Smoothness Update",
+    "notes":  [
+                  "Navegação instantânea entre Início, Tops, Definições e Atualizações.",
+                  "Removido o crossfade antigo de 180 ms entre páginas.",
+                  "Redesenho e operações de layout otimizados para evitar flicker.",
+                  "Preservação de scroll, seleções e controlos ao navegar.",
+                  "Reutilização de capas e avatares dos Tops quando os dados não mudam.",
+                  "Top músicas, QuickPlay, notificações e funcionalidades existentes preservados."
+              ],
+    "installer":  {
+                      "file":  "HellyMusic-Setup-0.10.6.exe",
+                      "url":  "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.10.6/HellyMusic-Setup-0.10.6.exe",
+                      "sha256":  "0365EEE37826F30B2371C523C4185A0B2A15147C7EF85458C26FA8D4B1A3E5FF",
+                      "sizeBytes":  7580342
+                  }
 }

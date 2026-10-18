@@ -1,25 +1,25 @@
 {
-    "schemaVersion":  1,
-    "product":  "HellyMusic",
-    "component":  "Client",
-    "channel":  "stable",
-    "version":  "0.10.6",
-    "minimumSupportedVersion":  "0.9.0",
-    "publishedAtUtc":  "2026-10-15T20:46:45.5725420Z",
-    "mandatory":  false,
-    "title":  "HellyMusic 0.10.6 — Navigation Smoothness Update",
-    "notes":  [
-                  "Navegação instantânea entre Início, Tops, Definições e Atualizações.",
-                  "Removido o crossfade antigo de 180 ms entre páginas.",
-                  "Redesenho e operações de layout otimizados para evitar flicker.",
-                  "Preservação de scroll, seleções e controlos ao navegar.",
-                  "Reutilização de capas e avatares dos Tops quando os dados não mudam.",
-                  "Top músicas, QuickPlay, notificações e funcionalidades existentes preservados."
-              ],
-    "installer":  {
-                      "file":  "HellyMusic-Setup-0.10.6.exe",
-                      "url":  "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.10.6/HellyMusic-Setup-0.10.6.exe",
-                      "sha256":  "0365EEE37826F30B2371C523C4185A0B2A15147C7EF85458C26FA8D4B1A3E5FF",
-                      "sizeBytes":  7580342
-                  }
+  "schemaVersion": 1,
+  "product": "HellyMusic",
+  "component": "Client",
+  "channel": "stable",
+  "version": "0.11.0",
+  "minimumSupportedVersion": "0.9.0",
+  "publishedAtUtc": "2026-10-18T21:38:01.7478443Z",
+  "mandatory": false,
+  "title": "HellyMusic 0.11.0 — Social Library e Playlists",
+  "notes": [
+    "Likes nas músicas e Favoritos pessoais associados à conta Discord.",
+    "Contador público de Likes e consulta de quem gostou entre utilizadores autorizados.",
+    "Playlists pessoais públicas ou privadas, com edição e ordenação de músicas.",
+    "Adicionar músicas dos Favoritos, histórico e reprodução atual às Playlists.",
+    "Sincronização e reconciliação da biblioteca após reconexão, com visual social refinado.",
+    "QuickPlay, atalhos, histórico, Top músicas com capas e funcionalidades anteriores preservados."
+  ],
+  "installer": {
+    "file": "HellyMusic-Setup-0.11.0.exe",
+    "sizeBytes": 7605614,
+    "sha256": "A26B2A2659D3BD32F8EF1B58F09CB8EE8F5491275BB5A22F83F1E83CD46DD339",
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.11.0/HellyMusic-Setup-0.11.0.exe"
+  }
 }

@@ -3,23 +3,23 @@
   "product": "HellyMusic",
   "component": "Client",
   "channel": "stable",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "minimumSupportedVersion": "0.9.0",
-  "publishedAtUtc": "2026-10-18T21:38:01.7478443Z",
+  "publishedAtUtc": "2026-10-18T22:41:03.0772210Z",
   "mandatory": false,
-  "title": "HellyMusic 0.11.0 — Social Library e Playlists",
+  "title": "HellyMusic 0.11.1 — Playlists UX Update",
   "notes": [
-    "Likes nas músicas e Favoritos pessoais associados à conta Discord.",
-    "Contador público de Likes e consulta de quem gostou entre utilizadores autorizados.",
-    "Playlists pessoais públicas ou privadas, com edição e ordenação de músicas.",
-    "Adicionar músicas dos Favoritos, histórico e reprodução atual às Playlists.",
-    "Sincronização e reconciliação da biblioteca após reconexão, com visual social refinado.",
-    "QuickPlay, atalhos, histórico, Top músicas com capas e funcionalidades anteriores preservados."
+    "Criar Playlists sem abrir automaticamente, com atualização imediata da lista.",
+    "Painel contextual para adicionar a música atual a uma Playlist ou criar uma nova com essa música.",
+    "Painel de Playlists com altura dinâmica, scroll interno e sem legenda desnecessária.",
+    "Clique simples seleciona a Playlist; duplo clique abre o conteúdo.",
+    "Filtro de Playlists públicas por autor, preenchido pelos dados do Server.",
+    "Likes, Favoritos, Top músicas, QuickPlay e funcionalidades anteriores preservados."
   ],
   "installer": {
-    "file": "HellyMusic-Setup-0.11.0.exe",
-    "sizeBytes": 7605614,
-    "sha256": "A26B2A2659D3BD32F8EF1B58F09CB8EE8F5491275BB5A22F83F1E83CD46DD339",
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.11.0/HellyMusic-Setup-0.11.0.exe"
+    "file": "HellyMusic-Setup-0.11.1.exe",
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.11.1/HellyMusic-Setup-0.11.1.exe",
+    "sha256": "6143C24536E7587164A2783254E542C0250AA9A538272225B07F651B2AFAEF4F",
+    "sizeBytes": 7611114
   }
 }

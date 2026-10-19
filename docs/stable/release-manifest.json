@@ -3,23 +3,23 @@
   "product": "HellyMusic",
   "component": "Client",
   "channel": "stable",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "minimumSupportedVersion": "0.9.0",
-  "publishedAtUtc": "2026-10-18T22:41:03.0772210Z",
+  "publishedAtUtc": "2026-10-18T23:07:20.9672397Z",
   "mandatory": false,
-  "title": "HellyMusic 0.11.1 — Playlists UX Update",
+  "title": "HellyMusic 0.11.2 — QuickPlay Social Update",
   "notes": [
-    "Criar Playlists sem abrir automaticamente, com atualização imediata da lista.",
-    "Painel contextual para adicionar a música atual a uma Playlist ou criar uma nova com essa música.",
-    "Painel de Playlists com altura dinâmica, scroll interno e sem legenda desnecessária.",
-    "Clique simples seleciona a Playlist; duplo clique abre o conteúdo.",
-    "Filtro de Playlists públicas por autor, preenchido pelos dados do Server.",
-    "Likes, Favoritos, Top músicas, QuickPlay e funcionalidades anteriores preservados."
+    "Botão Like no QuickPlay, sincronizado com a janela principal e eventos do Server.",
+    "Adicionar a música atual a uma Playlist existente ou criar uma nova diretamente no QuickPlay.",
+    "Painel contextual compacto com altura dinâmica, scroll e proteção junto às margens do ecrã.",
+    "Controlos sociais desativados durante reconexão ou confirmação, evitando ações duplicadas.",
+    "Dimensões do QuickPlay preservadas, com Próxima à direita e comportamento existente mantido.",
+    "Likes, Favoritos, Playlists, Top músicas, histórico e restantes funcionalidades preservados."
   ],
   "installer": {
-    "file": "HellyMusic-Setup-0.11.1.exe",
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.11.1/HellyMusic-Setup-0.11.1.exe",
-    "sha256": "6143C24536E7587164A2783254E542C0250AA9A538272225B07F651B2AFAEF4F",
-    "sizeBytes": 7611114
+    "file": "HellyMusic-Setup-0.11.2.exe",
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.11.2/HellyMusic-Setup-0.11.2.exe",
+    "sha256": "95B9AC4CE6F2A2C25361032EBDDA81058FD2175419C026D29C7969FC0E026B43",
+    "sizeBytes": 7612713
   }
 }

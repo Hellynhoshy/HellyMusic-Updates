@@ -3,23 +3,21 @@
   "product": "HellyMusic",
   "component": "Client",
   "channel": "stable",
-  "version": "0.11.2",
+  "version": "0.11.3",
   "minimumSupportedVersion": "0.9.0",
-  "publishedAtUtc": "2026-10-18T23:07:20.9672397Z",
+  "publishedAtUtc": "2026-10-20T22:54:56.0296427Z",
   "mandatory": false,
-  "title": "HellyMusic 0.11.2 — QuickPlay Social Update",
+  "title": "HellyMusic 0.11.3 — Tops Scroll Update",
   "notes": [
-    "Botão Like no QuickPlay, sincronizado com a janela principal e eventos do Server.",
-    "Adicionar a música atual a uma Playlist existente ou criar uma nova diretamente no QuickPlay.",
-    "Painel contextual compacto com altura dinâmica, scroll e proteção junto às margens do ecrã.",
-    "Controlos sociais desativados durante reconexão ou confirmação, evitando ações duplicadas.",
-    "Dimensões do QuickPlay preservadas, com Próxima à direita e comportamento existente mantido.",
-    "Likes, Favoritos, Playlists, Top músicas, histórico e restantes funcionalidades preservados."
+    "Corrigido o deslocamento involuntário dos Tops ao reproduzir ou adicionar Top músicas à fila.",
+    "Posição de scroll preservada durante ações e atualização dos rankings.",
+    "Navegação por teclado mantida, com o controlo focado visível quando necessário.",
+    "QuickPlay, Likes, Favoritos, Playlists e restantes funcionalidades preservados."
   ],
   "installer": {
-    "file": "HellyMusic-Setup-0.11.2.exe",
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.11.2/HellyMusic-Setup-0.11.2.exe",
-    "sha256": "95B9AC4CE6F2A2C25361032EBDDA81058FD2175419C026D29C7969FC0E026B43",
-    "sizeBytes": 7612713
+    "file": "HellyMusic-Setup-0.11.3.exe",
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.11.3/HellyMusic-Setup-0.11.3.exe",
+    "sha256": "4561CA73830272679CBB3206A47E31F6606568BCB763E3E9FE6C418D800B0193",
+    "sizeBytes": 7613035
   }
 }

@@ -1,23 +1,23 @@
 {
-  "schemaVersion": 1,
-  "product": "HellyMusic",
-  "component": "Client",
-  "channel": "stable",
-  "version": "0.11.3",
   "minimumSupportedVersion": "0.9.0",
-  "publishedAtUtc": "2026-10-20T22:54:56.0296427Z",
-  "mandatory": false,
-  "title": "HellyMusic 0.11.3 — Tops Scroll Update",
-  "notes": [
-    "Corrigido o deslocamento involuntário dos Tops ao reproduzir ou adicionar Top músicas à fila.",
-    "Posição de scroll preservada durante ações e atualização dos rankings.",
-    "Navegação por teclado mantida, com o controlo focado visível quando necessário.",
-    "QuickPlay, Likes, Favoritos, Playlists e restantes funcionalidades preservados."
-  ],
+  "schemaVersion": 1,
   "installer": {
-    "file": "HellyMusic-Setup-0.11.3.exe",
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.11.3/HellyMusic-Setup-0.11.3.exe",
-    "sha256": "4561CA73830272679CBB3206A47E31F6606568BCB763E3E9FE6C418D800B0193",
-    "sizeBytes": 7613035
-  }
+    "sizeBytes": 7654002,
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.11.4/HellyMusic-Setup-0.11.4.exe",
+    "sha256": "5EF9ED45470ECD828AEDB45DA12325F358F7EF878B4B95F45E54A0EFE255B668",
+    "file": "HellyMusic-Setup-0.11.4.exe"
+  },
+  "component": "Client",
+  "version": "0.11.4",
+  "product": "HellyMusic",
+  "title": "HellyMusic 0.11.4 — Histórico e progresso",
+  "channel": "stable",
+  "notes": [
+    "Histórico compacto com capas e scroll consistente.",
+    "Progresso informativo no Client e QuickPlay.",
+    "Pesquisa, fila, Top músicas e perfis preservados.",
+    "Ligação segura dos amigos atualizada para o novo servidor, preservando perfis e autenticação Discord."
+  ],
+  "mandatory": false,
+  "publishedAtUtc": "2026-10-22T22:15:39.1944863Z"
 }

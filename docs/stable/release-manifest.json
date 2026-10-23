@@ -1,22 +1,22 @@
 {
-  "title": "HellyMusic 0.12.0 — WPF",
-  "component": "Client",
+  "schemaVersion": 1,
   "channel": "stable",
-  "minimumSupportedVersion": "0.11.5",
+  "publishedAtUtc": "2026-10-23T23:42:29.0782916Z",
   "installer": {
-    "sha256": "3BFE28884BF79FB9DD548508B23334DAEA854D852F20DF645F8CCCB8ED4EB175",
-    "file": "HellyMusic-Setup-0.12.0.exe",
-    "sizeBytes": 52314276,
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.12.0/HellyMusic-Setup-0.12.0.exe"
+    "sizeBytes": 52323436,
+    "file": "HellyMusic-Setup-0.12.1.exe",
+    "sha256": "E45AEA622C6DF6DDAFB81D929AF202520D253A4ED749A1DDA3577B19E09628B0",
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.12.1/HellyMusic-Setup-0.12.1.exe"
   },
+  "title": "HellyMusic 0.12.1 — correção do menu da bandeja",
+  "component": "Client",
+  "minimumSupportedVersion": "0.11.5",
   "notes": [
-    "Client WPF com navegação integrada e QuickPlay Floating Glass.",
-    "Perfis, autenticação, atalhos e extensões preservados.",
-    "Atualizações seguras e preferências preservadas."
+    "Menu da bandeja com gestão nativa de foco e comandos, sem restaurar a janela apenas ao abrir.",
+    "Nova opção Sair completamente do HellyMusic em Definições → Comportamento.",
+    "Perfis, autenticação, atalhos, QuickPlay e atualizador preservados."
   ],
-  "mandatory": false,
-  "publishedAtUtc": "2026-10-23T22:25:53.3190750Z",
-  "version": "0.12.0",
   "product": "HellyMusic",
-  "schemaVersion": 1
+  "version": "0.12.1",
+  "mandatory": false
 }

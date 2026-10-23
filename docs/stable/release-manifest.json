@@ -1,23 +1,22 @@
 {
-  "product": "HellyMusic",
-  "mandatory": false,
-  "version": "0.11.5",
-  "schemaVersion": 1,
-  "title": "HellyMusic 0.11.5 — Playlists e estabilidade",
-  "publishedAtUtc": "2026-10-23T06:18:12.9188741Z",
-  "installer": {
-    "file": "HellyMusic-Setup-0.11.5.exe",
-    "sha256": "B7A8053F42D29767E6B2547A72C1308C69DA2EF5BE91C807021BA3C100491A85",
-    "sizeBytes": 7653941,
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.11.5/HellyMusic-Setup-0.11.5.exe"
-  },
+  "title": "HellyMusic 0.12.0 — WPF",
   "component": "Client",
+  "channel": "stable",
+  "minimumSupportedVersion": "0.11.5",
+  "installer": {
+    "sha256": "3BFE28884BF79FB9DD548508B23334DAEA854D852F20DF645F8CCCB8ED4EB175",
+    "file": "HellyMusic-Setup-0.12.0.exe",
+    "sizeBytes": 52314276,
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.12.0/HellyMusic-Setup-0.12.0.exe"
+  },
   "notes": [
-    "Playlists públicas atualizadas corretamente entre utilizadores.",
-    "Progresso musical atualizado continuamente no Client e QuickPlay.",
-    "Seletor de playlists fecha corretamente ao criar ou cancelar.",
-    "Top músicas, histórico, perfis e autenticação preservados."
+    "Client WPF com navegação integrada e QuickPlay Floating Glass.",
+    "Perfis, autenticação, atalhos e extensões preservados.",
+    "Atualizações seguras e preferências preservadas."
   ],
-  "minimumSupportedVersion": "0.9.0",
-  "channel": "stable"
+  "mandatory": false,
+  "publishedAtUtc": "2026-10-23T22:25:53.3190750Z",
+  "version": "0.12.0",
+  "product": "HellyMusic",
+  "schemaVersion": 1
 }

@@ -1,23 +1,23 @@
 {
-  "minimumSupportedVersion": "0.9.0",
+  "product": "HellyMusic",
+  "mandatory": false,
+  "version": "0.11.5",
   "schemaVersion": 1,
+  "title": "HellyMusic 0.11.5 — Playlists e estabilidade",
+  "publishedAtUtc": "2026-10-23T06:18:12.9188741Z",
   "installer": {
-    "sizeBytes": 7654002,
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.11.4/HellyMusic-Setup-0.11.4.exe",
-    "sha256": "5EF9ED45470ECD828AEDB45DA12325F358F7EF878B4B95F45E54A0EFE255B668",
-    "file": "HellyMusic-Setup-0.11.4.exe"
+    "file": "HellyMusic-Setup-0.11.5.exe",
+    "sha256": "B7A8053F42D29767E6B2547A72C1308C69DA2EF5BE91C807021BA3C100491A85",
+    "sizeBytes": 7653941,
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.11.5/HellyMusic-Setup-0.11.5.exe"
   },
   "component": "Client",
-  "version": "0.11.4",
-  "product": "HellyMusic",
-  "title": "HellyMusic 0.11.4 — Histórico e progresso",
-  "channel": "stable",
   "notes": [
-    "Histórico compacto com capas e scroll consistente.",
-    "Progresso informativo no Client e QuickPlay.",
-    "Pesquisa, fila, Top músicas e perfis preservados.",
-    "Ligação segura dos amigos atualizada para o novo servidor, preservando perfis e autenticação Discord."
+    "Playlists públicas atualizadas corretamente entre utilizadores.",
+    "Progresso musical atualizado continuamente no Client e QuickPlay.",
+    "Seletor de playlists fecha corretamente ao criar ou cancelar.",
+    "Top músicas, histórico, perfis e autenticação preservados."
   ],
-  "mandatory": false,
-  "publishedAtUtc": "2026-10-22T22:15:39.1944863Z"
+  "minimumSupportedVersion": "0.9.0",
+  "channel": "stable"
 }

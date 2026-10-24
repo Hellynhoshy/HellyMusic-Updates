@@ -1,22 +1,27 @@
 {
-  "schemaVersion": 1,
-  "channel": "stable",
-  "publishedAtUtc": "2026-10-23T23:42:29.0782916Z",
   "installer": {
-    "sizeBytes": 52323436,
-    "file": "HellyMusic-Setup-0.12.1.exe",
-    "sha256": "E45AEA622C6DF6DDAFB81D929AF202520D253A4ED749A1DDA3577B19E09628B0",
-    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.12.1/HellyMusic-Setup-0.12.1.exe"
+    "sizeBytes": 52354975,
+    "file": "HellyMusic-Setup-0.12.2.exe",
+    "sha256": "8C5656DFD69F80CFD4D7213FFA7FA52A45FE2C9E10CD6FAF42D0DA7DD500C143",
+    "url": "https://hellynhoshy.github.io/HellyMusic-Updates/releases/0.12.2/HellyMusic-Setup-0.12.2.exe"
   },
-  "title": "HellyMusic 0.12.1 — correção do menu da bandeja",
+  "channel": "stable",
+  "notes": [
+    "Novo tratamento visual das capas, com fundo desfocado e remoção de margens artificiais.",
+    "Histórico lateral com duplo clique e menu de contexto para adicionar músicas à fila e às playlists.",
+    "Seleção e eliminação de playlists diretamente na listagem.",
+    "Destaque do criador das playlists.",
+    "QuickPlay sem barra de progresso quando não existe reprodução.",
+    "Definições reorganizadas em secções expansíveis.",
+    "Personalização do QuickPlay mais acessível.",
+    "Histórico de versões disponível dentro da aplicação."
+  ],
+  "schemaVersion": 1,
+  "version": "0.12.2",
   "component": "Client",
   "minimumSupportedVersion": "0.11.5",
-  "notes": [
-    "Menu da bandeja com gestão nativa de foco e comandos, sem restaurar a janela apenas ao abrir.",
-    "Nova opção Sair completamente do HellyMusic em Definições → Comportamento.",
-    "Perfis, autenticação, atalhos, QuickPlay e atualizador preservados."
-  ],
+  "publishedAtUtc": "2026-10-24T11:19:19.2834120Z",
   "product": "HellyMusic",
-  "version": "0.12.1",
-  "mandatory": false
+  "mandatory": false,
+  "title": "HellyMusic 0.12.2 — Experiência e personalização"
 }

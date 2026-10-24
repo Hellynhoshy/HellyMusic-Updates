@@ -9,11 +9,9 @@
   "notes": [
     "Novo tratamento visual das capas, com fundo desfocado e remoção de margens artificiais.",
     "Histórico lateral com duplo clique e menu de contexto para adicionar músicas à fila e às playlists.",
-    "Seleção e eliminação de playlists diretamente na listagem.",
-    "Destaque do criador das playlists.",
-    "QuickPlay sem barra de progresso quando não existe reprodução.",
+    "Seleção e eliminação de playlists diretamente na listagem, com destaque do criador.",
+    "QuickPlay sem barra de progresso quando não existe reprodução e com personalização mais acessível.",
     "Definições reorganizadas em secções expansíveis.",
-    "Personalização do QuickPlay mais acessível.",
     "Histórico de versões disponível dentro da aplicação."
   ],
   "schemaVersion": 1,
